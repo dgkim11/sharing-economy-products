@@ -1,4 +1,4 @@
-package com.coupang.sharing.product.config;
+package com.minna.sharingeco.product.config;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.MessageSource;

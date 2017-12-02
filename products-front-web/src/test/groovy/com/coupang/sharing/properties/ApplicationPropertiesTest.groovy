@@ -1,5 +1,6 @@
 package com.coupang.sharing.product.properties
 
+import com.minna.sharingeco.product.properties.ApplicationProperties
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.beans.factory.annotation.Value
 import org.springframework.boot.test.context.SpringBootTest

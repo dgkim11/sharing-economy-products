@@ -1,4 +1,4 @@
-package com.coupang.sharing.product.example;
+package com.minna.sharingeco.product.example;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
