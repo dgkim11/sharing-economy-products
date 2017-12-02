@@ -1,0 +1,5 @@
+rootProject.name = 'products'
+include 'products-domains'
+include 'products-front-web'
+include 'products-front-api'
+

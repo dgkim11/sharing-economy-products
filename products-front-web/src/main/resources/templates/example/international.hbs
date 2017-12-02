@@ -1,0 +1,21 @@
+<h1>{{greeting}}</h1>
+<p>{{curLocale}}</p>
+<span >{{message "lang.change"}}</span>:
+<select id="locales">
+    <option value=""></option>
+    <option value="en">{{message "lang.eng"}}</option>
+    <option value="kr">{{message "lang.kr"}}</option>
+</select>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#locales").change(function () {
+            var selectedOption = $('#locales').val();
+            if (selectedOption != ''){
+                window.location.replace('international?lang=' + selectedOption);
+            }
+        });
+    });
+</script>

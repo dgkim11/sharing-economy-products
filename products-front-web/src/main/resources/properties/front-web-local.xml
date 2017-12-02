@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Define properties for the system when you execute it in your local pc</comment>
+    <entry key="app.version">1.1.1</entry>
+    <entry key="msg.hello">hello! in local zone</entry>
+</properties>

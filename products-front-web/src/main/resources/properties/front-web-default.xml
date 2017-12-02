@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Define default properties for the system regardless of active profile.</comment>
+    <entry key="sys.version">1.0.0</entry>
+    <entry key="app.version">1.0.0</entry>
+</properties>

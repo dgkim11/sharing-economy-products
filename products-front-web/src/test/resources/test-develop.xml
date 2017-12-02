@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Define any properties overrided for test in develop environment.</comment>
+    <entry key="sys.version">test.0.0</entry>
+    <entry key="msg.hello">hello! in product zone</entry>
+</properties>
