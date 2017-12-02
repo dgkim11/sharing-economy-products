@@ -1,4 +1,4 @@
-package com.minna.sharingeco.product.example;
+package com.minna.sharingeconomy.product.example;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;

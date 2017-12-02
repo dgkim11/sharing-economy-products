@@ -1,4 +1,4 @@
-package com.minna.sharingeco.product.properties;
+package com.minna.sharingeconomy.product.properties;
 
 import lombok.Getter;
 import org.springframework.beans.factory.annotation.Value;

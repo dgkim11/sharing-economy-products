@@ -1,4 +1,4 @@
-package com.minna.sharingeco.product;
+package com.minna.sharingeconomy.product;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

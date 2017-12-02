@@ -1,4 +1,4 @@
-package com.minna.sharingeco.product.config;
+package com.minna.sharingeconomy.product.config;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.MessageSource;
